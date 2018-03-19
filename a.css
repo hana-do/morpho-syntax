@@ -1,0 +1,35 @@
+.np {
+  border: solid 4px;
+  border-color: green;
+  margin: 5px 5px;
+}
+.vp {
+  border: solid 4px;
+  border-color: red;
+  margin: 5px 5px;
+}
+.prepp {
+  border: solid 4px;
+  border-color: blue;
+  margin: 5px 5px;
+}
+.participlep {
+  border: solid 4px;
+  border-color: purple;
+  margin: 5px 5px;
+}
+.advp {
+  border: solid 4px;
+  border-color: yellow;
+  margin: 5px 5px;
+}
+.adjp {
+  border: solid 4px;
+  border-color: orange;
+  margin: 5px 5px;
+}
+.sentence {
+  border: solid 4px;
+  border-color: black;
+  margin: 5px 5px;
+}
