@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 url_base = 'http://www.oed.com.ezproxy.mnsu.edu/'
 url_login = 'https://login.ezproxy.mnsu.edu/login'
 url_home = 'http://ezproxy.mnsu.edu/login?url=http://www.oed.com'
-payload = {'user': 'pj6526bw', 'pass': 'Butako.no5'}
+payload = {'user': '', 'pass': ''}
 
 # initialize text
 text = WordInfo('We stopped on an edgeless plateau that stretched to nothing on all sides')
